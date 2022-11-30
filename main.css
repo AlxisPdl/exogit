@@ -1,6 +1,7 @@
 h1, h2 {
     text-decoration: underline;
     margin-left: 10px;
+    color: magenta;
 }
 
 p {
